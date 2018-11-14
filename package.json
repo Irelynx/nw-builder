@@ -37,12 +37,12 @@
     "application"
   ],
   "devDependencies": {
-    "decompress-zip": "0.3.1",
-    "eol": "^0.9.0",
-    "nock": "^9.0.5",
-    "redtape": "~1.0.0",
-    "tap-spec": "^4.1.1",
-    "tape": "~4.9.0"
+    "decompress-zip": "^0.3.1",
+    "eol": "^0.9.1",
+    "nock": "^9.6.1",
+    "redtape": "^1.0.0",
+    "tap-spec": "^4.1.2",
+    "tape": "^4.9.1"
   },
   "dependencies": {
     "archiver": "^2.1.1",
@@ -68,7 +68,6 @@
     "tar-fs": "^1.13.0",
     "temp": "github:adam-lynch/node-temp#remove_tmpdir_dep",
     "thenify": "^3.3.0",
-    "update-notifier": "^2.4.0",
-    "winresourcer": "^0.9.0"
+    "update-notifier": "^2.4.0"
   }
 }
